@@ -15,7 +15,7 @@ namespace DemoGit.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Your application new new ";
 
             return View();
         }
